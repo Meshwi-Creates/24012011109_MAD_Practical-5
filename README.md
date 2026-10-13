@@ -1,14 +1,5 @@
 # Practical-5 : Login and Registration using Jetpack Compose
 
-## Student Information
-
-- **Name:** Dhruti Patel
-- **Enrollment No.:** 24012011083
-- **Department:** Computer Engineering
-- **Subject:** Mobile Application Development
-
----
-
 ## Aim
 To create an Android application that includes Login and Registration screens using Jetpack Compose.
 
