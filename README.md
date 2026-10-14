@@ -26,3 +26,8 @@ This practical demonstrates how to design Login and Registration screens using *
 - Kotlin
 - Jetpack Compose
 - Material Design Components
+
+## Output
+
+![Home Screen](app/screenshot/5_1.png)
+![Home Screen](app/screenshot/5_2.png)
